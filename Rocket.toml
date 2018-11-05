@@ -1,0 +1,2 @@
+[global.databases]
+db = { url = "postgres://photothing:12345@localhost/photodb" }
