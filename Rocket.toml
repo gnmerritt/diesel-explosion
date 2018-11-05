@@ -1,2 +1,2 @@
 [global.databases]
-db = { url = "postgres://photothing:12345@localhost/photodb" }
+db = { url = "postgres://postgres:1234@localhost:5432/travis_ci_test" }
